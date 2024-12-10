@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java/Main.java=UTF-8
+encoding//src/main/java/com/edutecno/dao/HoroscopoDaoImpl.java=UTF-8
+encoding//src/main/java/com/edutecno/modelo/Horoscopo.java=UTF-8
+encoding//src/main/java/com/edutecno/procesaconexion/ConexionDB.java=UTF-8
+encoding//src/main/java/com/edutecno/servlets/ActualizarUsuarioServlet.java=UTF-8
+encoding//src/main/java/com/edutecno/servlets/BuscarUsuarioServlet.java=UTF-8
+encoding//src/main/java/com/edutecno/servlets/CrearUsuarioServlet.java=UTF-8
+encoding//src/main/java/com/edutecno/servlets/EliminarUsuarioServlet.java=UTF-8
+encoding//src/main/java/com/edutecno/servlets/LoginServlet.java=UTF-8
+encoding//src/main/java/com/edutecno/servlets/ModificarUsuarioServlet.java=UTF-8
+encoding/<project>=windows-31j
